@@ -1,0 +1,4 @@
+.elementor-181 .elementor-element.elementor-element-da54543{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-181 .elementor-element.elementor-element-8071ea8 .elementor-wrapper{--video-aspect-ratio:1.77777;}#elementor-popup-modal-181 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-181{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-181 .dialog-close-button{display:flex;}#elementor-popup-modal-181 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}/* Start custom CSS for video, class: .elementor-element-8071ea8 */.elementor-widget-video .e-hosted-video .elementor-video {
+    -o-object-fit: cover;
+    object-fit: contain;
+}/* End custom CSS */

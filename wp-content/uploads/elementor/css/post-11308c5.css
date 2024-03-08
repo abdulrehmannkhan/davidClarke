@@ -1,0 +1,33 @@
+.elementor-113 .elementor-element.elementor-element-ce77500{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}#elementor-popup-modal-113 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-113{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-113 .dialog-close-button{display:flex;}#elementor-popup-modal-113 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(min-width:768px){.elementor-113 .elementor-element.elementor-element-ce77500{--content-width:100%;}}/* Start custom CSS for image, class: .elementor-element-80965a2 */@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  
+  40% {
+    transform: translateY(-20px);
+  }
+  
+  60% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  
+  40% {
+    transform: translateY(-20px);
+  }
+  
+  60% {
+    transform: translateY(-10px);
+  }
+}
+
+
+img {
+  
+  animation: bounce 0.4s infinite;
+}/* End custom CSS */
